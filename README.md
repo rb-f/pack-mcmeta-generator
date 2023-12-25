@@ -6,7 +6,7 @@ First, download the code by pressing **Code** > **Download ZIP**. Then, extract 
 
 Once you're in the file, enter the two fields requested. There are two fields to enter: Description and Pack Format.
 - **Description**: The description that will be shown in the Minecraft pack files.
-- **Pack format**: The pack format is the format version that will be used in Minecraft. This is needed so Minecraft can identify if your pack is compatible with this version. See https://minecraft.fandom.com/wiki/Resource_pack for a list of resource pack formats.
+- **Pack format**: The pack format is the format version that will be used in Minecraft. This is needed so Minecraft can identify if your pack is compatible with this version. Go to **Help** > **List of pack formats...** for a list of resource pack formats.
 
 Now, after that, you'll only need to press **Generate pack.mcmeta**. That will generate your pack.mcmeta file and outputs it to the output box. With this, you can click the box, then press Ctrl+A to select all, then press Ctrl+C to copy. Then, you can copy it to the pack.mcmeta file.
 
